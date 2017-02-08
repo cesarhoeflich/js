@@ -1,1 +1,1 @@
-﻿alert();
+﻿alert('WF Teste CDN');
