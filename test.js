@@ -1,1 +1,2 @@
-﻿alert('WF Teste CDN');
+﻿//alert('WF Teste CDN');
+$('body').css('background-color', 'red;');
